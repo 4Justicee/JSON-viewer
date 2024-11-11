@@ -6,69 +6,9 @@
 
   <h1 align="center">My Json viewer</h1>
 
-  <p align="center">
-    The customized open-source JSON Editor.
-    <br />
-    <a href="https://jsoncrack.com"><strong>Learn more »</strong></a>
-    <br />
-    <br />
-    <a href="https://todiagram.com">ToDiagram</a>
-    ·
-    <a href="https://discord.gg/yVyTtCRueq">Discord</a>
-    ·
-    <a href="https://jsoncrack.com">Website</a>
-    ·
-    <a href="https://github.com/AykutSarac/jsoncrack.com/issues">Issues</a>
-    ·
-    <a href="https://marketplace.visualstudio.com/items?itemName=">VS Code</a>
-  </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
-
-## About the Project
-
-<img width="100%" alt="booking-screen" src="./public/assets/compare/free.webp">
-
-## Visualize JSON into interactive graphs
-
-JSON Crack is a tool for visualizing JSON data in a structured, interactive graphs, making it easier to explore, format, and validate JSON. It offers features like converting JSON to other formats (CSV, YAML), generating JSON Schema, executing queries, and exporting visualizations as images. Designed for both readability and usability.
-
-* **Visualizer**: Instantly convert JSON, YAML, CSV, XML, and TOML into interactive graphs or trees in dark or light mode.
-* **Convert**: Seamlessly transform data formats, like JSON to CSV or XML to JSON, for easy sharing.
-* **Format & Validate**: Beautify and validate JSON, YAML, and CSV for clear and accurate data.
-* **Code Generation**: Generate TypeScript interfaces, Golang structs, and JSON Schema.
-* **JSON Schema**: Create JSON Schema, mock data, and validate various data formats.
-* **Advanced Tools**: Decode JWT, randomize data, and run jq or JSON path queries.
-* **Export Image**: Download your visualization as PNG, JPEG, or SVG.
-* **Privacy**: All data processing is local; nothing is stored on our servers.
-
-## Recognition
-
-<a href="https://news.ycombinator.com/item?id=32626873">
-  <img
-    style="width: 250px; height: 54px;" width="250" height="54"
-    alt="Featured on Hacker News"
-    src="https://hackernews-badge.vercel.app/api?id=32626873"
-  />
-</a>
-
-<a href="https://producthunt.com/posts/JSON-Crack?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-jsoncrack" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=332281&theme=light" alt="JSON Crack | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-### Built With
-
-- [Next.js](https://nextjs.org/?ref=jsoncrack.com)
-- [React.js](https://reactjs.org/?ref=jsoncrack.com)
-- [Reaflow](https://reaflow.dev/?ref=jsoncrack.com)
-- [Monaco Editor](https://github.com/suren-atoyan/monaco-react)
-
-## Stay Up-to-Date
-
-JSON Crack officially launched as v1.0 on the 17th of February 2022 and we've come a long way so far. Watch **releases** of this repository to be notified of future updates:
-
-<a href="https://github.com/AykutSarac/jsoncrack.com"><img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com" alt="Star at GitHub" /></a>
-
-<!-- GETTING STARTED -->
 
 ## Getting Started
 
