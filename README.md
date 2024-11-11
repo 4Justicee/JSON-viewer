@@ -4,10 +4,10 @@
    <img src="./public/assets/logo.svg" height="50" alt="Logo">
   </a>
 
-  <h1 align="center">JSON Crack</h1>
+  <h1 align="center">My Json viewer</h1>
 
   <p align="center">
-    The open-source JSON Editor.
+    The customized open-source JSON Editor.
     <br />
     <a href="https://jsoncrack.com"><strong>Learn more »</strong></a>
     <br />
@@ -20,7 +20,7 @@
     ·
     <a href="https://github.com/AykutSarac/jsoncrack.com/issues">Issues</a>
     ·
-    <a href="https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode">VS Code</a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=">VS Code</a>
   </p>
 </p>
 
